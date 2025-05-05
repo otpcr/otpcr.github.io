@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>otpcr</ShortName>
+  <Description>Search Office of the Prosecutor&#39;s 117th communication of the year 2019</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Url type="text/html" method="get"
+       template="http://otpcr.rtfd.io//search.html?q={searchTerms}"/>
+  <LongName>Office of the Prosecutor&#39;s 117th communication of the year 2019</LongName>
+  <Image height="16" width="16" type="image/x-icon">http://otpcr.rtfd.io//_static/otpcr.jpg</Image>
+  
+</OpenSearchDescription>
